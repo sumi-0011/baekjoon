@@ -1,8 +1,9 @@
+package Silver4;
+
 import java.util.Scanner;
 
-public class Main {
-
-	public static void main(String args[]) {
+public class Main_1002 {
+	public static void main(String[] args) {
 		int x1, x2, y1, y2, r1, r2;
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
@@ -39,5 +40,4 @@ public class Main {
 		}
 
 	}
-
 }
